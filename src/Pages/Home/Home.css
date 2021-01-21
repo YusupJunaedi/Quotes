@@ -1,0 +1,68 @@
+.container {
+    flex: 1;
+    padding: 100px 20px 50px 20px;
+}
+
+.siteURL {
+    padding-left: 30px;
+}
+
+.quote img {
+    width: 20%;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-quote {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.favorite-quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.favorite-quote>p {
+    margin: 0px;
+    text-align: center;
+}
+
+
+.quote>.form-quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.form-quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hrrr {
+    flex: 1;
+    flex-direction: column;
+    min-width: 500px;
+}
+
+.my-quote {
+    padding: 20px;
+}
+
+.my-quote>p {
+    text-align: center;
+    margin: 0px;
+}
